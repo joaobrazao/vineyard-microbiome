@@ -1,0 +1,131 @@
+study_accession	curation_status	n_runs	n_samples	study_title	first_public_year	platforms	targets	countries
+PRJNA1311317	KEEP	389	195	Root, soil, and fruit microbiota of Vitis vinifera cv. Pigato under different inoculum treatments across vineyards and phenological stages	2026	ILLUMINA	16S V4, 18S, ITS2	
+PRJNA1230266	KEEP	347	347	Vineyard groundcovers shift microbial communities both near and beyond their root zones	2026	ILLUMINA	16S (unspecified), ITS1, ITS2	USA: Pennsylvania, Rock Springs
+PRJEB74740	KEEP	304	304	Ecotoxicological impact of conventional, organic and biodynamic viticultural systems and associated practices on soil microbiota in various French territories	2026	ILLUMINA		France
+PRJEB90149	KEEP	94	94	Soil metagenomic study of the microbiome harbored by two Vitis vinifera cultivars under different irrigation strategies in Alentejo, Portugal for two growing seasons.	2026	ILLUMINA	16S V4-V5, ITS1	Portugal
+PRJEB112833	KEEP	42	42	Effects of MSW-compost amendment on the vineyard soil microbiota	2026	ILLUMINA		Italy
+PRJNA1066414	KEEP	42	21	Microbial diversities in vineyard soils	2026	ILLUMINA		China
+PRJNA1400748	KEEP	36	36	Vineyard soil microbiome under dinotefuran treatment Genome sequencing	2026	ILLUMINA	16S (unspecified), ITS	
+PRJEB104219	KEEP	24	24	Immediate effects of reduced tillage on soil health in a rainfed vineyard under Mediterranean conditions	2026	ILLUMINA	16S (unspecified)	Spain
+PRJNA1447403	KEEP	24	24	Bolgheri (Tuscany, Italy) vineyard rhizosphere microbiome	2026	ELEMENT		
+PRJNA921747	KEEP	15	5	Effects of Vineyard Agro-management Practices on Soil Microbial Community Composition, and Diversity	2026	ILLUMINA		Israel: Golan Heights
+PRJNA1453436	KEEP	12	12	Eukaryotic ITS2 sequences extracted from elemental sulfur treated Southern Okanagan vineyard soil	2026	ILLUMINA	ITS2	
+PRJNA1453704	KEEP	12	12	Bacteria V3V4 sequences extracted from elemental sulfur treated Southern Okanagan vineyard soil	2026	ILLUMINA	ITS2	
+PRJEB84392	KEEP	8	8	Taxonomic and functional characterization of the rhizobiome under different edaphic conditions within a vineyard plot.	2026	ILLUMINA		Portugal
+PRJEB89112	KEEP	1152	1152	ITS data of Swiss Vineyards	2025	ILLUMINA	ITS	Switzerland, USA
+PRJEB89111	KEEP	1148	1148	16S data of Swiss Vineyards	2025	ILLUMINA	16S (unspecified)	Switzerland, USA
+PRJEB89467	KEEP	883	883	Bacterial 16S and fungal ITS metabarcoding of soil, leaf and root in grape plots with high and low yield	2025	ILLUMINA	ITS	France
+PRJEB88181	KEEP	472	472	Bacterial Microbiome data of Davis Vineyards	2025	ILLUMINA		USA
+PRJEB88146	KEEP	467	467	ITS data of Davis Vineyards	2025	ILLUMINA	ITS	USA
+PRJNA1207507	KEEP	454	454	Temporal effect of cover crop use on soil microbiome in a irrigated vineyard under semi-arid climate	2025	ILLUMINA	16S (unspecified), ITS	USA: California
+PRJNA1278407	KEEP	384	384	Evaluation of the biodiversity and multifunctionality of the soil as an ecological indicator for the sustainable management of vineyards in Northern Spain (SosVidSoil)	2025	ILLUMINA	16S (unspecified)	Spain: La Rioja, Spain: Navarra, Spain: the Basque Country
+PRJNA1110149	KEEP	360	360	Study of soil and must microbiota in vineyards	2025	ILLUMINA	ITS	Spain: La Rioja
+PRJNA1390664	KEEP	360	180	Soultanina wood grapevine microbiome	2025	ILLUMINA	16S V4, ITS2	Greece
+PRJNA1200613	KEEP	240	240	Amplicon sequencing of phyllosphere microorganisms of grapevine	2025	ILLUMINA		Italy: Concesio (Brescia), Italy: S. Michele all'Adige (Trento)
+PRJNA1308612	KEEP	189	189	Napa Valley Vineyard Soil Sampling	2025	ILLUMINA	16S V4	USA: Napa Valley, California
+PRJNA1157712	KEEP	162	162	Vineyard soil, grape skin, winery environment, and grape must sample sequencing	2025	ILLUMINA		missing
+PRJNA1096138	KEEP	132	132	Organic soil amendments for a sustainable vineyard management: linking microbiome responses to soil biochemistry	2025	ILLUMINA		Italy: Bologna
+PRJNA1328367	KEEP	118	60	Vineyards_rhizomicrobiome Raw sequence reads	2025	ILLUMINA	16S (unspecified)	Germany: Eichstetten, Germany: Ihringen, Germany: Rauenberg, Germany: Ringsheim
+PRJNA1091866	KEEP	116	116	soil bacteria and fungi raw sequence reads from vineyards soils in DOP Ribeiro, Spain	2025	ILLUMINA	16S V4, ITS	
+PRJNA1358953	KEEP	102	6	Environmental Filtering of Soil Bacteria Shapes Vineyard Agriculture More Strongly in Conventional Systems than Organic Across a European Latitude Gradient	2025	ILLUMINA	16S (unspecified)	Austria:Neusiedlersee, France:Aquitaine, Spain:Montilla-Moriles
+PRJNA1332945	KEEP	87	87	Arbuscular mycorrhizal fungi diversity in vineyard	2025	ILLUMINA	18S	Spain: Murcia
+PRJNA1223837	KEEP	72	36	Ozone impact on soil bacterial and fungal microbiota	2025	ILLUMINA	16S (unspecified), ITS, ITS2	Spain: La Rioja
+PRJNA889760	KEEP	63	63	Effect of soil management on prokaryotic communities in a experimental vineyard	2025	ILLUMINA	16S (unspecified)	Uruguay
+PRJNA869908	KEEP	58	58	Metagenomics as a tool in investigating the microbiome associated with Pinot noir grape fermentation musts	2025	ILLUMINA	16S (unspecified)	
+PRJNA1311841	KEEP	54	27	Basaltic rock powder effect on microbial communities in vineyards	2025	PACBIO_SMRT	16S (unspecified)	Switzerland:Neuchatel, Gorgier
+PRJNA1213718	KEEP	40	40	Metabarcoding of endophytes in V.vinifera and V. sylvestris with different vineyard managements	2025	OXFORD_NANOPORE		Italy
+PRJNA1258297	KEEP	36	36	Cover crop-based under-row dry mulching enhances phyllosphere and rhizosphere microbial biodiversity in a non-irrigated vineyard	2025	ILLUMINA	ITS	Italy: Castelnovo Val Tidone
+PRJNA1364830	KEEP	36	36	wood mycobiome in vineyard	2025	ILLUMINA	ITS1	Spain: Extremadura, Badajoz
+PRJNA1073022	KEEP	35	35	Microbial communities of vineyard soils	2025	ILLUMINA		China:Ningxia Province
+PRJNA1279629	KEEP	22	22	Compost tea effect on a vineyard bacterial communities in field	2025	ILLUMINA		Italy: Florence
+PRJEB97168	KEEP	18	9	Amplicon sequencing (16S rRNA and ITS) was used to characterize bacterial and fungal communities associated with Vitis vinifera cv. Ahmeur bou Ahmeur grape berries surface collected from different plants within a single vineyard in the Atacama Desert, Chile	2025	ILLUMINA	16S (unspecified), ITS	Chile
+PRJNA887574	KEEP	16	16	MICROBIAL DIVERSITY OF TWO DIFFERENT ORGANIC WINE FERMENTATION SYSTEMS IN TWO VINTAGES EXPLORED USING METABARCODING	2025	ILLUMINA	16S (unspecified), 16S V4, 18S	New Zealand
+PRJNA1327833	KEEP	15	15	Grape berries microbiota	2025	ILLUMINA	ITS1	France: Gruissan
+PRJNA856448	KEEP	15	5	Effect of Basaltic Soil on Fungal Community in Vineyard Agro-management	2025	ILLUMINA		Israel: Golan Heights
+PRJNA1333879	KEEP	12	12	Metagenomic analysis of soil microbial communities from vineyards under different management systems	2025	ILLUMINA	16S (unspecified)	Spain: Andalusia, Jerez de la Frontera, Spain: Andalusia, Sierra de Grazalema, Majaceite River
+PRJNA908721	KEEP	11	5	Relationship between soil free living nematode community in diverse land use type in vineyard growth in basaltic soils	2025	ILLUMINA		Israel: Golan Heights
+PRJNA1336453	KEEP	8	4	Grape leave samples with powdery mildew symptoms in vineyard of Spassk Dalny, Primorsky Territory	2025	ILLUMINA	16S V4, ITS2	Russia:Far east
+PRJEB98468	KEEP	3	3	NGS profiling of bacterial, archaeal and fungal communities in winery liquid effluents used for Chlorella cultivation (REDWine project)	2025	ILLUMINA	16S (unspecified)	Portugal
+PRJNA1053885	KEEP	3105	3105	Temporal and spatial dynamics within the fungal microbiome of grape fermentation	2024	ILLUMINA	ITS	Australia:Adelaide Hills, Australia:Barossa, Australia:Bellarine, Australia:Canberra District, Australia:Clare, Australia:Coonawarra, Australia:Granite Belt, Australia:Heathcote, Australia:Hunter, Australia:Langhorne Creek, Australia:Margaret River, Australia:McLaren Vale, Australia:Orange, Australia:Tasmania
+PRJEB72003	KEEP	497	495	Influence of grapevine rootstock genotypes on the root system microbiomes.	2024	ILLUMINA	16S (unspecified), 18S, ITS	France
+PRJEB32992	KEEP	442	442	Effects of pesticides on soil bacterial, fungal and protist communities, soil functions and crop quality in vineyards	2024	ILLUMINA	18S	Switzerland
+PRJNA1182249	KEEP	278	278	Microbiota and mycobiota of grape and soil samples collected over three consecutive harvest periods across the Nemea PDO zone vineyards Raw sequence reads	2024	ILLUMINA	16S (unspecified)	
+PRJEB79310	KEEP	250	250	Bacterial 16S and fungal ITS metabarcoding of topsoil, leaf phyllosphere, and endosphere in grape plots with high and low susceptibility to downy mildew	2024	ILLUMINA	ITS, ITS2	missing: control sample
+PRJNA1000746	KEEP	189	189	Bacterial Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides. (16S Sequences)	2024	ILLUMINA	16S (unspecified)	Australia: Adelaide
+PRJEB83803	KEEP	186	186	Arbuscular mycorrhizal fungal communities in French vineyards across Terroir and farming practices	2024	ILLUMINA		France
+PRJNA1000758	KEEP	183	183	Fungal Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides. (ITS Sequences)	2024	ILLUMINA	ITS	Australia: Adelaide
+PRJNA978637	KEEP	141	141	The microbiome of grapevine trunk disease escape grapevines	2024	ILLUMINA		New Zealand:Fernhill, New Zealand:Lincoln, New Zealand:Waipara
+PRJEB65486	KEEP	130	130	Influence of grapevine rootstock and scion genotypes on root system microbiomes.	2024	ILLUMINA	ITS	France
+PRJEB68302	KEEP	122	122	ITS1 Metabarcoding of the wash-off from Forficula auricularia sampled in vineyards	2024	ILLUMINA	ITS1	Germany
+PRJNA1063098	KEEP	120	120	soil bacterial and fungal raw sequences from vineyard soils in California.	2024	ILLUMINA	16S V4, ITS	USA: California
+PRJNA1081177	KEEP	97	97	TrunkBioCode - Metagenomic analysis of the trunk microbiome of GTD affected grapevines	2024	ILLUMINA	ITS2	Portugal: Alentejo, Arraiolos, Portugal: Alentejo, Campo Maior, Portugal: Alentejo, Estremoz, Portugal: Alentejo, Pedrogo, Portugal: Alentejo, Portalegre, Portugal: Alentejo, Redondo, Portugal: Alentejo, vora, Portugal: Algarve, Albufeira, Portugal: Algarve, Lagoa, Portugal: Algarve, Lagos, Portugal: Algarve, Portimo, Portugal: Algarve, Silves, Portugal: Bairrada, Anadia, Portugal: Bairrada, Cantanhede, Portugal: Bairrada, Oliveira do Bairro, Portugal: Do, Gouveia, Portugal: Do, Nelas, Portugal: Do, Seia, Portugal: Do, Viseu, Portugal: Douro, Ervedosa do Do, Portugal: Douro, Peso da Rgua, Portugal: Douro, Sao Joo da Pesqueira, Portugal: Douro, Tabuao, Portugal: Douro, Vila Flor, Portugal: Lisboa, Arruda dos Vinhos, Portugal: Lisboa, Sobral Monte Agrao, Portugal: Lisboa, Tapada da Ajuda, Portugal: Lisboa, Torres Vedras, Portugal: Peninsula de Setubal, Santo Isidro de Peges, Portugal: Tejo, Almeirim
+PRJNA1000981	KEEP	90	90	Impact of Fungicides on the Grape Berry Microbiome and the Sensory Profile of Derived Wines. (ITS Sequences)	2024	ILLUMINA	ITS	Australia: South Australia
+PRJEB71926	KEEP	84	83	Influence of grapevine rootstock and scion genotypes on the structure and composition of arbuscular mycorrhizal fungi associated with the root system.	2024	ILLUMINA	18S, 28S	France
+PRJNA1100499	KEEP	71	71	Grape berry microbiota from two Vitis vinifera cultivars: comparative analysis uncovers sour rot associates in Maryland vineyards	2024	ILLUMINA	16S (unspecified), ITS1	USA: Maryland, Queen Anne County, Queenstown
+PRJNA1198338	KEEP	57	57	Soil nematode community characterized by high-throughput sequencing analysis revealed enhanced soil health in organic vineyards	2024	ILLUMINA		
+PRJNA1053291	KEEP	48	4	Composition and diversity of the microbiome associated with rhizospheric soil in Vitis vinifera cultivars Syrah, Cabernet Sauvignon and Malbec from two vineyardss	2024	ILLUMINA	16S (unspecified)	Brazil
+PRJEB75200	KEEP	45	45	Diversifying grapevines with aromatic plants changes the soil habitat, microbial community composition and functions toward more efficient substrate use and nutrient allocation	2024	ILLUMINA	16S (unspecified)	Germany
+PRJNA1182674	KEEP	45	45	Microbial diversity of grape berries	2024	ILLUMINA		Hungary: Mad village
+PRJNA1174674	KEEP	40	40	Diversifying grapevines with aromatic plants	2024	ILLUMINA		Germany
+PRJNA1081348	KEEP	35	35	Sangiovese vineyard (Italy) soil microbiome	2024	ILLUMINA		Italy: DOCG Chianti Classico area (San Casciano in Val di Pesa, Florence)
+PRJNA1104547	KEEP	34	34	Fungal diversity in Chile vineyards	2024	ILLUMINA		Chile: Casablanca, Chile: Cauquenes, Chile: Galvarino, Chile: Idahue, Chile: Mulchen, Chile: Pencahue, Chile: Peumo, Chile: Pirque, Chile: Punte Alto, Chile: Puren, Chile: San Clemente, Chile: Ucuquer, Chile: Valle del Limari, Chile: Victoria
+PRJNA1100588	KEEP	25	25	Grape berry microbiota from two Vitis vinifera cultivars: comparative analysis uncovers sour rot associates in Maryland vineyards	2024	ILLUMINA	ITS1	USA: Maryland, Queen Anne County, Queenstown
+PRJNA826314	KEEP	6	6	The addition of isolated plant growth-promoting rhizobacteria and commercial arbuscular mycorrhizal fungi alters the microbiome associated with the roots of young vines	2024	ILLUMINA		France: Villenave d'Ornon
+PRJEB79661	KEEP	2	2	Complete 16S rRNA gene (V1-V9) sequencing in vineyard topsoil and young leaf phyllosphere	2024	PACBIO_SMRT	16S (unspecified)	France
+PRJNA906189	KEEP	332	332	Soil and bark biodiversity forms discrete islands between vineyards that are not affected by distance or management regime	2023	ILLUMINA	16S (unspecified), ITS2	New Zealand: Marlborough
+PRJNA925461	KEEP	323	323	Sequences derived from Grape Juice and Grapevine Leaf samples Raw sequence reads	2023	ILLUMINA	16S (unspecified)	New Zealand: Marlborough
+PRJNA847784	KEEP	312	312	Metabarcoding data of fungal communities associated with leaf, bark and ground cover samples collected in an untreated vineyard planted with Vitis vinifera cv Merlot.	2023	ILLUMINA		France: Villenave-d Ornon
+PRJNA826282	KEEP	147	147	Bacterial and fungal microbiomes in vineyard soils subjected to unexplained decline	2023	ILLUMINA	16S (unspecified), 18S, ITS	France: Villenave d'Ornon
+PRJNA891098	KEEP	140	140	Metagenomic analysis of vineyard soil samples	2023	ILLUMINA		Cyprus: Agia Mavri, Cyprus: Kathikas, Cyprus: Kyperounta, Cyprus: Panagia
+PRJEB44062	KEEP	120	120	Dissipation of herbicides and fungicides in a vineyard soil and responses of bacterial, fungal and protist communities	2023	ILLUMINA		France
+PRJNA838599	KEEP	95	95	Malbec rhizosphere and bulk associated microbiome from high-altitude contrasting soils: effect of depth and vintage in a vineyard from Mendoza, Argentina	2023	ILLUMINA	16S (unspecified)	
+PRJEB50819	KEEP	60	60	Legacy of land-cover changes on soil microbiology in Burgundy vineyards (Pernand-Vergelesses, France)	2023	ILLUMINA		France
+PRJNA1032922	KEEP	48	24	Soil prokaryotic communities associated to Uruguayan vineyards	2023	ILLUMINA	16S (unspecified), ITS2	Uruguay
+PRJEB49802	KEEP	40	40	metabarcoding analysis of the mycobiota of wasps and vineyard samples exposed to wasps from the environment, reared in the lab or fed with Saccharomyces cerevisiae.	2023	ILLUMINA		Italy
+PRJNA843903	KEEP	35	12	Soil bacterial community affected by aggregate size under agro-management in vineyard grounds	2023	ILLUMINA		Israel
+PRJNA868524	KEEP	30	30	Vineyard decline is affiliated to soil microbiome dysbiosis in diversity and functionality	2023	ILLUMINA		France: Villenave d'Ornon
+PRJNA849941	KEEP	28	28	California Grapevine transect Microbiome	2023	ILLUMINA		USA: Madera County, USA: Merced County, USA: San Joaquin County
+PRJNA860361	KEEP	28	26	Yeast communities from Nova Scotia vineyards before and after spontaneous fermentation	2023	ILLUMINA, PACBIO_SMRT	ITS, ITS2	Canada: Lower Wolfville, Nova Scotia
+PRJNA885087	KEEP	20	20	Alvarinho microbiome	2023	ILLUMINA	16S (unspecified)	Portugal:Basto, Portugal:Cavado, Portugal:Chaves, Portugal:Melgaco, Portugal:Moncao, Portugal:Terras de Azurara, Portugal:Viana do Castelo, Portugal:Vidigueira
+PRJNA915365	KEEP	7	7	Soil bacterial community diversity of a red soil vineyard in hot-moist southwest China	2023	ILLUMINA		China: Nanning
+PRJEB31962	KEEP	1658	1658	Promoting EcoSystem Services in Grapes	2022	ILLUMINA	16S (unspecified), ITS	Austria, France, Germany, Romania, Switzerland
+PRJEB57815	KEEP	189	189	Composition and biodiversity of soil and root-associated microbiome in Vitis vinifera cultivar 1 Lambrusco distinguish the microbial terroir of the Lambrusco DOC protected designation of 2 origin area on a local scale	2022	ILLUMINA		Italy
+PRJNA911566	KEEP	152	38	Metagenome of soil from vineyards under different agricultural management practices	2022	ILLUMINA		France:Bordeaux
+PRJDB12181	KEEP	52	52	Metagenomic Analysis of Microbiome in Shoot Xylem of Grapevine in Japan	2022	ILLUMINA		Japan:Ehime, Japan:Hiroshima, Japan:Hokkaido, Japan:Miyagi, Japan:Nagano, Japan:Shimane, Japan:Yamanashi
+PRJNA867147	KEEP	36	12	Free-living soil nematode community structure and distribution within soil aggregates under conventional and organic vineyard managements	2022	ILLUMINA	18S	Israel
+PRJNA907731	KEEP	16	8	Soil from different vineyards Metagenome	2022	ILLUMINA		Spain:Cordoba
+PRJNA798301	KEEP	12	12	Soil composition and rootstock genotype drive the root associated microbial communities in young grapevines	2022	ILLUMINA		France: Villenave d'Ornon
+PRJNA803359	KEEP	9	9	Yeasts on grape skin in different vineyards	2022	ILLUMINA		Italy
+PRJNA721258	KEEP	1	1	Above-ground parts of white grapevine Vitis vinifera cv. Furmint share core members of the fungal microbiome	2022	ILLUMINA	ITS	Hungary: Mad
+PRJEB31356	KEEP	720	351	Core microbiome and mycobiome of vineyard soils from Northern Italy	2021	ILLUMINA		Italy
+PRJEB45622	KEEP	84	84	A Characterization of the Grape Root Microbiome Across Rootstocks and Root Depth in a Cool Climate Organic Vineyard	2021	ILLUMINA		
+PRJNA679172	KEEP	65	65	Study of abuscular mycorrhizal fungi associated to vine plants	2021	ILLUMINA	18S	Spain: Mallorca Island
+PRJEB39597	KEEP	54	27	Snapshot of a vineyard: how do long-term agronomic practices influence soil bacterial and fungal diversity?	2021	ILLUMINA		Italy
+PRJEB42324	KEEP	48	48	Interactive effects of scion and rootstock genotypes on the root microbiome of grapevines	2021	ILLUMINA		Germany
+PRJNA742427	KEEP	25	25	Influence of Climate on Soil and Wine Bacterial Diversity on a Vineyard in a Non-Traditional Wine Region in Argentina	2021	ILLUMINA	16S (unspecified)	Argentina: Buenos Aires
+PRJNA753154	KEEP	23	23	Effect of brassicas on fungal community in a vineyard	2021	ILLUMINA	ITS	Canada: Kelowna
+PRJNA686129	KEEP	8	8	Brazilian vineyard fungal sequencing	2021	ILLUMINA	ITS	Brazil
+PRJEB40350	KEEP	504	504	The specific microbial biodiversity linked to a certain vineyard location has been reported to be a crucial aspect in the concept of wine-terroir together with edaphic, climatic and human factors. These biogeographical patterns referred as the microbial-terroir. In this work, we applied an HTS amplicon library approach to conduct a global survey of the soil microbial communities of vineyards. We analyzed 200 soil vineyards worldwide, in four continents trying to settle the basis for the development of a vineyard-soil-microbiome map to represent the microbial-wine-terroir on a global scale. We highlighted that this link exists at different scales among continents, states, and between different wine-regions within the same country. Geography has a strong effect on microbial communities composition at a global scale, which is also maintained at a country scale. Also, for the very first time, we describe the microbial community of a new and northern winemaker regions such as Denmark, that can be of great interest for viticulture adaptation in a context of climate change. Finally, we developed a predictive model, based on random forest analyses, to discriminate between microbial patterns to identify the geographical source of the samples with reasonable precision.	2020	ILLUMINA		Argentina, Australia, Chile, Croatia, Denmark, France, Germany, Hungary, Italy, Portugal, South Africa, Spain, USA
+PRJNA672044	KEEP	350	350	Fungal (local) networks in vineyard soils	2020	ILLUMINA	ITS	Spain, USA
+PRJNA587381	KEEP	180	180	BC vineyard and wine-associated fungi	2020	ILLUMINA	ITS1	Canada: Oliver British Columbia
+PRJNA626608	KEEP	160	160	Fungal communities associated with the grapevine in an annual growth cycle	2020	ILLUMINA	ITS	Australia:Victoria
+PRJNA678415	KEEP	133	133	Vineyard ecosystem vulnerability to pathogens and drought in the context of climate change	2020	ILLUMINA		France
+PRJEB40549	KEEP	131	131	Bacterial community dynamics varies with soil management and irrigation practices in grapevines (Vitis vinifera L.)	2020	ILLUMINA		Cyprus
+PRJEB38750	KEEP	83	83	Description of microbiota associated with 'Candidatus Phytoplasma solani' insect vectors to grapevine: is microbial resource management a possible strategy for their biological control?	2020	ILLUMINA		Italy
+PRJNA605898	KEEP	34	34	Grapevine endophytes	2020	ILLUMINA		Australia: Harden, sample 1, Australia: Harden, sample 2, Australia: Harden, sample 3, Australia: Harden, sample 4, Australia: Harden, sample 5, Australia: Harden, sample 6, Australia: Harden, sample 7, Australia: Harden, sample 8, Australia: Harden, sample 9, Australia: Hunter Valley, sample 1, Australia: Hunter Valley, sample 2, Australia: Hunter Valley, sample 3, Australia: Hunter Valley, sample 4, Australia: Hunter Valley, sample 5, Australia: Hunter Valley, sample 6, Australia: Hunter Valley, sample 7, Australia: Hunter Valley, sample 8
+PRJNA646865	KEEP	33	33	Microbiome during spontaneous wine fermentation	2020	ILLUMINA	ITS	Australia:Victoria
+PRJNA615973	KEEP	16	16	Rhizosphere microbial diversity of red fescue and grapevine with varying root biomass in sample	2020	ILLUMINA	16S (unspecified)	USA:Pennsylvania
+PRJNA600377	KEEP	4	4	Discovering the microbiota of Vitis vinifera cv. Pinot Noir in a conventionally managed vineyard	2020	LS454		Italy: Piedmont
+PRJNA613620	KEEP	4	4	Vitis vinifera association with local AMF communities in an Italian vineyard at two different phenological stages	2020	LS454		Italy: Piedmont
+PRJNA609931	KEEP	2	2	Effect of cover crop in vineyard on soil microbial diversity	2020	ILLUMINA		Italy:Sicily
+PRJNA593824	KEEP	388	388	Vertical stratification of microbial communities in vineyard soils	2019	ILLUMINA	16S (unspecified), ITS	Australia, Denmark, Spain
+PRJNA594469	KEEP	200	200	Microbial terroir_ Fungal communities structure and distinguish vineyard ecosystems to impact the flavour and quality of wine_fungi data	2019	ILLUMINA	ITS	Australia:Victoria
+PRJNA594458	KEEP	150	150	Microbial terroir_ Fungal communities structure and distinguish vineyard ecosystems to impact the flavour and quality of wine_bacteria data	2019	ILLUMINA	16S (unspecified)	Australia:Victoria
+PRJEB30496	KEEP	120	120	Seasonal microbial dynamics on grapevine leaves under biocontrol and copper fungicide treatments	2019	ILLUMINA		South Africa
+PRJEB31028	KEEP	95	95	Wood mycobiome of a vineyard affected by esca	2019	ILLUMINA		Portugal
+PRJEB32853	KEEP	78	78	Fungicides and the grapevine wood mycobiome. A case study on tracheomycotic ascomycete Phaeomoniella chlamydospora reveals potential for two novel control strategies.	2019	ILLUMINA		Portugal
+PRJNA548498	KEEP	60	60	Soil-compartments Grapevine	2019	ILLUMINA		Spain
+PRJEB21990	KEEP	46	46	Early effects of agroforestry practices on soil microbial communities in vineyards	2019	ILLUMINA		France
+PRJNA484333	KEEP	36	36	Bark and grape epiphytic microbial communities in vineyards	2019	ILLUMINA	16S (unspecified)	Italy: Piedmont, Italy: Tuscany
+PRJNA486612	KEEP	22	22	Rhizosphere microbiome in esca-symptomatic and -asymptomatic grapevines.	2019	ILLUMINA		Italy: Puglia
+PRJNA587013	KEEP	20	20	Small scale fungal community differentiation in a vineyard system	2019	LS454		New Zealand

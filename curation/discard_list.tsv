@@ -1,0 +1,26 @@
+study_accession	reason	study_title
+PRJDB17462	insect host - studies the GUT microbiota of a grapevine pest (Apolygus spinolae), not the vineyard	Geographical, seasonal, and growth-related dynamics of gut microbiota in a grapevine pest, Apolygus spinolae
+PRJNA1216920	"wrong host - pearl millet, not grape; matched ""vineyard"" by association only"	Pearl millet root-adhering-soil microbiota
+PRJNA1281670	non-grape fermented vegetables, not vineyard	Investigating the effect of frost exposure on microbial composition of fermented vegetables
+PRJNA1262505	"apples/cider, uses word ""terroir"" but not grape - off-topic"	Studies of bacterial and fungal microbial terroir on apples and cider collected in the Hudson Valley of New York
+PRJNA1045969	cryptic, only 2 runs, no useful context - unclear scope	iSBio soil monitoring campaign
+PRJNA934966	insect (sharpshooter) microbiome, not vineyard	Geographical Survey of the Mycobiome and Microbiome of Southern California Glassy-winged Sharpshooters
+PRJNA682301	"mango carposphere, uses ""terroir"" but not grape"	Terroir is the main driver of the epiphytic bacterial and fungal communities of mango carposphere in Reunion Island
+PRJNA784327	professional kitchen fermented food terroir, not vineyard	Investigating the microbial terroir of fermented food processed in a professional kitchen
+PRJNA635690	"general ""conservation agriculture biodiversity"" - no vineyard signal in title; needs check but likely off-topic"	Small, significant and consistent effect of conservation agriculture on multi-kingdom biodiversity
+PRJNA661690	"cryptic ID only ""HJ2-2"", 1 run, no description"	HJ2-2 Raw sequence reads
+PRJNA786241	virome (viral sequences), not microbiome amplicon	The First Virome of Russian Vineyard
+PRJNA786077	virome (viral sequences), not microbiome amplicon	The First Virome of Russian Vineyard
+PRJNA774515	wine product (Polish red wine), not vineyard environment; check carefully if of interest	Microbiome of Polish red wines
+PRJNA765214	teabag microbiome (decomposition bait assay), not vineyard despite Klosterneuburg location	Teabag microbiome - Klosterneuburg Targeted loci environmental
+PRJNA749811	maize rhizosphere, not vineyard	Maize rhizosphere bacteriome diversity
+PRJNA691763	"air, vine and grassland leaf/soil - ""vine"" generic, not Vitis-specific"	V5-V6 region sequences of bacterial 16S collected in air, vine and grassland leaf and soil samples
+PRJEB38663	Arabidopsis study, no grape	Root-secreted coumarins and the microbiota interact to improve iron nutrition in Arabidopsis
+PRJNA649446	plant metagenome generic, no vineyard context in title	plant metagenome Raw sequence reads
+PRJEB36740	Styrian agricultural soils generally, not specifically vineyards (Styria has many ag uses)	Unraveling the complexity of soil microbiomes in a large-scale study subjected to different agricultural management in Styria
+PRJNA548584	general California sap microbiome, no vineyard specificity	Sap Microbiome of Southern California
+PRJNA938436	coastal ocean plastics degradation, off-topic	Distinct Microbial Communities Degrade Cellulose Diacetate Plastics in the Coastal Ocean
+PRJNA853579	multi-omics of grapevine VIRAL infection, plant response not microbiome community	Integrated multiomics profiling of grapevine in response to viral mixed infection
+PRJNA892502	plant pathogen population sequencing, not microbiome community	Global cytb sequencing of populations from a plant pathogen
+PRJNA888436	Fungal sequencing - no description, unusable	Fungal sequencing
+PRJNA1087452	Rice 'N Grits - title is unclear, 4 runs only, almost certainly not vineyard	Rice 'N Grits

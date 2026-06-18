@@ -1,0 +1,167 @@
+study_accession	verdict	reason	study_title
+PRJDB17462	DISCARD	insect host - studies the GUT microbiota of a grapevine pest (Apolygus spinolae), not the vineyard	Geographical, seasonal, and growth-related dynamics of gut microbiota in a grapevine pest, Apolygus spinolae
+PRJNA1216920	DISCARD	wrong host - pearl millet, not grape; matched "vineyard" by association only	Pearl millet root-adhering-soil microbiota
+PRJNA1281670	DISCARD	non-grape fermented vegetables, not vineyard	Investigating the effect of frost exposure on microbial composition of fermented vegetables
+PRJNA1262505	DISCARD	apples/cider, uses word "terroir" but not grape - off-topic	Studies of bacterial and fungal microbial terroir on apples and cider collected in the Hudson Valley of New York
+PRJNA1045969	DISCARD	cryptic, only 2 runs, no useful context - unclear scope	iSBio soil monitoring campaign
+PRJNA934966	DISCARD	insect (sharpshooter) microbiome, not vineyard	Geographical Survey of the Mycobiome and Microbiome of Southern California Glassy-winged Sharpshooters
+PRJNA682301	DISCARD	mango carposphere, uses "terroir" but not grape	Terroir is the main driver of the epiphytic bacterial and fungal communities of mango carposphere in Reunion Island
+PRJNA784327	DISCARD	"professional kitchen" fermented food terroir, not vineyard	Investigating the microbial terroir of fermented food processed in a professional kitchen
+PRJNA635690	DISCARD	general "conservation agriculture biodiversity" - no vineyard signal in title; needs check but likely off-topic	Small, significant and consistent effect of conservation agriculture on multi-kingdom biodiversity
+PRJNA661690	DISCARD	cryptic ID only "HJ2-2", 1 run, no description	HJ2-2 Raw sequence reads
+PRJNA786241	DISCARD	virome (viral sequences), not microbiome amplicon	The First Virome of Russian Vineyard
+PRJNA786077	DISCARD	virome (viral sequences), not microbiome amplicon	The First Virome of Russian Vineyard
+PRJNA774515	DISCARD	wine product (Polish red wine), not vineyard environment; check carefully if of interest	Microbiome of Polish red wines
+PRJNA765214	DISCARD	teabag microbiome (decomposition bait assay), not vineyard despite Klosterneuburg location	Teabag microbiome - Klosterneuburg Targeted loci environmental
+PRJNA749811	DISCARD	maize rhizosphere, not vineyard	Maize rhizosphere bacteriome diversity
+PRJNA691763	DISCARD	"air, vine and grassland leaf/soil" - "vine" generic, not Vitis-specific	V5-V6 region sequences of bacterial 16S collected in air, vine and grassland leaf and soil samples
+PRJEB38663	DISCARD	Arabidopsis study, no grape	Root-secreted coumarins and the microbiota interact to improve iron nutrition in Arabidopsis
+PRJNA649446	DISCARD	"plant metagenome" generic, no vineyard context in title	plant metagenome Raw sequence reads
+PRJEB36740	DISCARD	Styrian agricultural soils generally, not specifically vineyards (Styria has many ag uses)	Unraveling the complexity of soil microbiomes in a large-scale study subjected to different agricultural management in Styria
+PRJNA548584	DISCARD	general California sap microbiome, no vineyard specificity	Sap Microbiome of Southern California
+PRJNA938436	DISCARD	coastal ocean plastics degradation, off-topic	Distinct Microbial Communities Degrade Cellulose Diacetate Plastics in the Coastal Ocean
+PRJNA853579	DISCARD	multi-omics of grapevine VIRAL infection, plant response not microbiome community	Integrated multiomics profiling of grapevine in response to viral mixed infection
+PRJNA892502	DISCARD	plant pathogen population sequencing, not microbiome community	Global cytb sequencing of populations from a plant pathogen
+PRJNA888436	DISCARD	"Fungal sequencing" - no description, unusable	Fungal sequencing
+PRJNA1087452	DISCARD	"Rice 'N Grits" - title is unclear, 4 runs only, almost certainly not vineyard	Rice 'N Grits
+PRJNA899435	REVIEW	"soil metazoan" suggests focus on animals (nematodes/mites) not microbes; may or may not be vineyard	Studies on soil metazoan of agroecosystems
+PRJNA1355179	REVIEW	"QV Agricultural soil" - cryptic, no vineyard signal in title	QV Agricultural soil Metagenome
+PRJNA1439843	REVIEW	"iCOSHELLs" cryptic project name; small (10 runs)	iCOSHELLs
+PRJNA1441229	REVIEW	"Environmental DNA in agricultural systems of southern Italy" - generic agricultural; may include vineyards	Environmental DNA in agricultural systems of southern Italy Raw sequence reads
+PRJNA782964	REVIEW	"Balaton Uplands slopes" - is a wine region (Hungary), but title doesn't confirm vineyard samples	soils from the Balaton Uplands slopes Targeted loci environmental
+PRJNA825668	REVIEW	"Soil Management, Aggregate Size, Fungal Community" - no explicit vineyard mention but plausibly related	Soil Management, Aggregate Size and Fungal Community - Structure and Function
+PRJEB54785	REVIEW	"CV-vigne-sol" - French for "cv vine-soil", almost certainly vineyard	CV-vigne-sol
+PRJNA655455	REVIEW	"Grillo Soils Sicily" - Grillo is a Sicilian wine grape; likely vineyard but verify	Grillo Soils Sicily
+PRJNA730439	REVIEW	"Rhizosphere Scale" - generic title, no vineyard signal	Rhizosphere Scale
+PRJNA848942	REVIEW	"Hunter Valley Soils" - Hunter Valley is a major Australian wine region; likely vineyard but verify	Hunter Valley Soils
+PRJNA847708	REVIEW	method paper on barcoding markers; samples may or may not be vineyard	Quantifying trade-offs in the choice of ribosomal barcoding markers for fungal amplicon sequencing
+PRJDB12181	KEEP	grapevine shoot xylem microbiome	Metagenomic Analysis of Microbiome in Shoot Xylem of Grapevine in Japan
+PRJEB104219	KEEP	vineyard tillage/soil	Immediate effects of reduced tillage on soil health in a rainfed vineyard under Mediterranean conditions
+PRJEB112833	KEEP	vineyard compost amendment	Effects of MSW-compost amendment on the vineyard soil microbiota
+PRJEB21990	KEEP	vineyard agroforestry	Early effects of agroforestry practices on soil microbial communities in vineyards
+PRJEB30496	KEEP	grapevine leaves biocontrol	Seasonal microbial dynamics on grapevine leaves under biocontrol and copper fungicide treatments
+PRJEB31028	KEEP	vineyard esca	Wood mycobiome of a vineyard affected by esca
+PRJEB31356	KEEP	N Italy vineyard soils	Core microbiome and mycobiome of vineyard soils from Northern Italy
+PRJEB31962	KEEP	ecosystem services in grapes (large vineyard ecology project)	Promoting EcoSystem Services in Grapes
+PRJEB32853	KEEP	grapevine wood mycobiome fungicides	Fungicides and the grapevine wood mycobiome
+PRJEB32992	KEEP	pesticides on vineyard soil	Effects of pesticides on soil bacterial, fungal and protist communities, soil functions and crop quality in vineyards
+PRJEB39597	KEEP	vineyard agronomic practices	Snapshot of a vineyard: how do long-term agronomic practices influence soil bacterial and fungal diversity?
+PRJEB40350	KEEP	global vineyard soil microbiome survey	Global survey of soil microbial communities of vineyards
+PRJEB40549	KEEP	grapevine soil management	Bacterial community dynamics varies with soil management and irrigation practices in grapevines
+PRJEB42324	KEEP	grapevine rootstock root microbiome	Interactive effects of scion and rootstock genotypes on the root microbiome of grapevines
+PRJEB44062	KEEP	herbicides/fungicides in vineyard soil	Dissipation of herbicides and fungicides in a vineyard soil and responses of bacterial, fungal and protist communities
+PRJEB45622	KEEP	vineyard grape root rootstock	A Characterization of the Grape Root Microbiome Across Rootstocks and Root Depth in a Cool Climate Organic Vineyard
+PRJEB49802	KEEP	wasps and vineyard mycobiota	metabarcoding analysis of the mycobiota of wasps and vineyard samples
+PRJEB50819	KEEP	Burgundy vineyard land-cover	Legacy of land-cover changes on soil microbiology in Burgundy vineyards
+PRJEB57815	KEEP	Lambrusco DOC microbial terroir	Composition and biodiversity of soil and root-associated microbiome in Vitis vinifera cultivar Lambrusco
+PRJEB65486	KEEP	grapevine rootstock root microbiomes	Influence of grapevine rootstock and scion genotypes on root system microbiomes
+PRJEB68302	KEEP	earwigs in vineyards (ITS metabarcoding)	ITS1 Metabarcoding of the wash-off from Forficula auricularia sampled in vineyards
+PRJEB71926	KEEP	grapevine rootstock AMF	Influence of grapevine rootstock and scion genotypes on arbuscular mycorrhizal fungi
+PRJEB72003	KEEP	grapevine rootstock root microbiome	Influence of grapevine rootstock genotypes on the root system microbiomes
+PRJEB74740	KEEP	viticulture systems ecotoxicology	Ecotoxicological impact of conventional, organic and biodynamic viticultural systems
+PRJEB75200	KEEP	grapevine with aromatic plants	Diversifying grapevines with aromatic plants
+PRJEB79310	KEEP	grape plots downy mildew metabarcoding	Bacterial 16S and fungal ITS metabarcoding of topsoil, leaf phyllosphere, and endosphere in grape plots
+PRJEB79661	KEEP	vineyard topsoil + leaf phyllosphere	Complete 16S rRNA gene (V1-V9) sequencing in vineyard topsoil and young leaf phyllosphere
+PRJEB83803	KEEP	French vineyards AMF terroir	Arbuscular mycorrhizal fungal communities in French vineyards across Terroir and farming practices
+PRJEB84392	KEEP	vineyard rhizobiome	Taxonomic and functional characterization of the rhizobiome under different edaphic conditions within a vineyard plot
+PRJEB88146	KEEP	Davis Vineyards ITS	ITS data of Davis Vineyards
+PRJEB88181	KEEP	Davis Vineyards bacteria	Bacterial Microbiome data of Davis Vineyards
+PRJEB89111	KEEP	Swiss Vineyards 16S	16S data of Swiss Vineyards
+PRJEB89112	KEEP	Swiss Vineyards ITS	ITS data of Swiss Vineyards
+PRJEB89467	KEEP	grape plots metabarcoding	Bacterial 16S and fungal ITS metabarcoding of soil, leaf and root in grape plots with high and low yield
+PRJEB90149	KEEP	Alentejo Vitis vinifera irrigation	Soil metagenomic study of the microbiome harbored by two Vitis vinifera cultivars under different irrigation strategies in Alentejo, Portugal
+PRJEB97168	KEEP	Atacama vineyard grape berries	Vitis vinifera grape berries surface from a single vineyard in the Atacama Desert
+PRJEB98468	KEEP	winery effluents (REDWine project)	NGS profiling of bacterial, archaeal and fungal communities in winery liquid effluents
+PRJEB38750	KEEP	grapevine microbiota associated with phytoplasma vectors	Description of microbiota associated with Phytoplasma solani insect vectors to grapevine
+PRJNA1000746	KEEP	vineyard leaf phyllosphere bacteria fungicides	Bacterial Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides
+PRJNA1000758	KEEP	vineyard leaf phyllosphere fungi fungicides	Fungal Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides
+PRJNA1000981	KEEP	grape berry microbiome fungicides	Impact of Fungicides on the Grape Berry Microbiome
+PRJNA1032922	KEEP	Uruguayan vineyards soil prokaryotes	Soil prokaryotic communities associated to Uruguayan vineyards
+PRJNA1053291	KEEP	rhizospheric soil Vitis cultivars	Rhizospheric soil in Vitis vinifera Syrah, Cabernet Sauvignon, Malbec
+PRJNA1053885	KEEP	grape fermentation fungal microbiome	Temporal and spatial dynamics within the fungal microbiome of grape fermentation
+PRJNA1063098	KEEP	California vineyard soils	soil bacterial and fungal raw sequences from vineyard soils in California
+PRJNA1066414	KEEP	vineyard soils microbial diversities	Microbial diversities in vineyard soils
+PRJNA1073022	KEEP	vineyard soils microbial communities	Microbial communities of vineyard soils
+PRJNA1081177	KEEP	grapevine trunk disease (GTD)	TrunkBioCode - Metagenomic analysis of the trunk microbiome of GTD affected grapevines
+PRJNA1081348	KEEP	Sangiovese vineyard soil	Sangiovese vineyard (Italy) soil microbiome
+PRJNA1091866	KEEP	DOP Ribeiro vineyards soil	soil bacteria and fungi from vineyards soils in DOP Ribeiro, Spain
+PRJNA1096138	KEEP	vineyard soil amendments	Organic soil amendments for a sustainable vineyard management
+PRJNA1100499	KEEP	Maryland vineyards grape berries	Grape berry microbiota in Maryland vineyards
+PRJNA1100588	KEEP	Maryland vineyards grape berries	Grape berry microbiota in Maryland vineyards
+PRJNA1104547	KEEP	Chile vineyards fungi	Fungal diversity in Chile vineyards
+PRJNA1110149	KEEP	soil and must microbiota in vineyards	Study of soil and must microbiota in vineyards
+PRJNA1157712	KEEP	vineyard soil + grape skin + winery	Vineyard soil, grape skin, winery environment, and grape must sample sequencing
+PRJNA1182249	KEEP	Nemea PDO vineyards	Microbiota and mycobiota of grape and soil samples across the Nemea PDO zone vineyards
+PRJNA1182674	KEEP	grape berry microbial diversity	Microbial diversity of grape berries
+PRJNA1198338	KEEP	organic vineyard nematode + microbiome	Soil nematode community in organic vineyards
+PRJNA1200613	KEEP	grapevine phyllosphere amplicon	Amplicon sequencing of phyllosphere microorganisms of grapevine
+PRJNA1207507	KEEP	cover crop in irrigated vineyard	Temporal effect of cover crop use on soil microbiome in a irrigated vineyard
+PRJNA1213718	KEEP	endophytes in V.vinifera + V. sylvestris	Metabarcoding of endophytes in V.vinifera and V. sylvestris with different vineyard managements
+PRJNA1223837	KEEP	ozone on soil microbiota (likely vineyard)	Ozone impact on soil bacterial and fungal microbiota
+PRJNA1230266	KEEP	vineyard groundcovers	Vineyard groundcovers shift microbial communities both near and beyond their root zones
+PRJNA1258297	KEEP	non-irrigated vineyard cover crop	Cover crop-based under-row dry mulching in a non-irrigated vineyard
+PRJNA1278407	KEEP	N Spain vineyards (SosVidSoil)	Biodiversity of soil as an ecological indicator for sustainable management of vineyards in Northern Spain
+PRJNA1279629	KEEP	vineyard compost tea	Compost tea effect on a vineyard bacterial communities in field
+PRJNA1308612	KEEP	Napa Valley vineyard soil	Napa Valley Vineyard Soil Sampling
+PRJNA1311317	KEEP	Vitis Pigato vineyards	Root, soil, and fruit microbiota of Vitis vinifera cv. Pigato across vineyards
+PRJNA1311841	KEEP	basaltic rock powder in vineyards	Basaltic rock powder effect on microbial communities in vineyards
+PRJNA1327833	KEEP	grape berries microbiota	Grape berries microbiota
+PRJNA1328367	KEEP	Vineyards rhizomicrobiome	Vineyards_rhizomicrobiome Raw sequence reads
+PRJNA1332945	KEEP	AMF in vineyard	Arbuscular mycorrhizal fungi diversity in vineyard
+PRJNA1333879	KEEP	vineyard management metagenome	Metagenomic analysis of soil microbial communities from vineyards under different management systems
+PRJNA1336453	KEEP	vineyard grape leaves powdery mildew	Grape leave samples with powdery mildew symptoms in vineyard of Spassk Dalny
+PRJNA1358953	KEEP	vineyard conventional vs organic	Soil Bacteria in Vineyard Agriculture across European Latitude Gradient
+PRJNA1364830	KEEP	wood mycobiome vineyard	wood mycobiome in vineyard
+PRJNA1390664	KEEP	Soultanina wood grapevine microbiome	Soultanina wood grapevine microbiome
+PRJNA1400748	KEEP	vineyard soil dinotefuran	Vineyard soil microbiome under dinotefuran treatment
+PRJNA1447403	KEEP	Bolgheri vineyard rhizosphere	Bolgheri (Tuscany, Italy) vineyard rhizosphere microbiome
+PRJNA1453436	KEEP	Okanagan vineyard soil ITS2	Eukaryotic ITS2 sequences from Southern Okanagan vineyard soil
+PRJNA1453704	KEEP	Okanagan vineyard soil bacteria	Bacteria V3V4 from Southern Okanagan vineyard soil
+PRJNA484333	KEEP	bark + grape epiphytic in vineyards	Bark and grape epiphytic microbial communities in vineyards
+PRJNA486612	KEEP	esca-symptomatic grapevines rhizosphere	Rhizosphere microbiome in esca-symptomatic and -asymptomatic grapevines
+PRJNA548498	KEEP	soil compartments grapevine	Soil-compartments Grapevine
+PRJNA587013	KEEP	vineyard fungal community	Small scale fungal community differentiation in a vineyard system
+PRJNA587381	KEEP	BC vineyard and wine fungi	BC vineyard and wine-associated fungi
+PRJNA593824	KEEP	vineyard soils vertical stratification	Vertical stratification of microbial communities in vineyard soils
+PRJNA594458	KEEP	microbial terroir vineyard bacteria	Microbial terroir bacterial communities in vineyards
+PRJNA594469	KEEP	microbial terroir vineyard fungi	Microbial terroir fungal communities in vineyards
+PRJNA600377	KEEP	Pinot Noir vineyard microbiota	Discovering the microbiota of Vitis vinifera cv. Pinot Noir in a conventionally managed vineyard
+PRJNA605898	KEEP	grapevine endophytes	Grapevine endophytes
+PRJNA609931	KEEP	cover crop vineyard	Effect of cover crop in vineyard on soil microbial diversity
+PRJNA613620	KEEP	Vitis Italian vineyard AMF	Vitis vinifera AMF in an Italian vineyard
+PRJNA615973	KEEP	red fescue + grapevine rhizosphere	Rhizosphere microbial diversity of red fescue and grapevine
+PRJNA626608	KEEP	grapevine annual growth cycle	Fungal communities associated with the grapevine in an annual growth cycle
+PRJNA646865	KEEP	spontaneous wine fermentation	Microbiome during spontaneous wine fermentation
+PRJNA672044	KEEP	vineyard soil fungal networks	Fungal (local) networks in vineyard soils
+PRJNA678415	KEEP	vineyard climate change vulnerability	Vineyard ecosystem vulnerability to pathogens and drought
+PRJNA686129	KEEP	Brazilian vineyard fungi	Brazilian vineyard fungal sequencing
+PRJNA721258	KEEP	grapevine Furmint cultivar	Above-ground parts of white grapevine Vitis vinifera cv. Furmint
+PRJNA742427	KEEP	Argentina vineyard climate	Climate effect on Soil and Wine Bacterial Diversity on a Vineyard in Argentina
+PRJNA753154	KEEP	brassicas in vineyard	Effect of brassicas on fungal community in a vineyard
+PRJNA798301	KEEP	rootstock + young grapevine root	Soil composition and rootstock genotype drive the root associated microbial communities in young grapevines
+PRJNA803359	KEEP	yeasts in vineyards	Yeasts on grape skin in different vineyards
+PRJNA826282	KEEP	vineyard soils decline	Bacterial and fungal microbiomes in vineyard soils subjected to unexplained decline
+PRJNA826314	KEEP	roots of young vines + PGPR	Plant growth-promoting rhizobacteria with the roots of young vines
+PRJNA838599	KEEP	Mendoza vineyard Malbec	Malbec rhizosphere in a vineyard from Mendoza, Argentina
+PRJNA843903	KEEP	vineyard agro-management	Soil bacterial community in vineyard grounds
+PRJNA847784	KEEP	vineyard Merlot leaf/bark fungi	Vineyard planted with Vitis vinifera cv Merlot leaf, bark, ground cover
+PRJNA849941	KEEP	California Grapevine Microbiome	California Grapevine transect Microbiome
+PRJNA856448	KEEP	vineyard basaltic soil fungi	Effect of Basaltic Soil on Fungal Community in Vineyard Agro-management
+PRJNA860361	KEEP	Nova Scotia vineyards yeast	Yeast communities from Nova Scotia vineyards
+PRJNA867147	KEEP	vineyard managements nematodes	Free-living soil nematode community in conventional and organic vineyard managements
+PRJNA868524	KEEP	vineyard decline soil microbiome	Vineyard decline is affiliated to soil microbiome dysbiosis
+PRJNA869908	KEEP	Pinot noir grape must microbiome	Pinot noir grape fermentation musts
+PRJNA887574	KEEP	organic wine fermentation metabarcoding	Microbial diversity of organic wine fermentation systems
+PRJNA889760	KEEP	experimental vineyard soil management	Effect of soil management on prokaryotic communities in a experimental vineyard
+PRJNA891098	KEEP	vineyard soil metagenome	Metagenomic analysis of vineyard soil samples
+PRJNA906189	KEEP	soil + bark in vineyards	Soil and bark biodiversity in vineyards
+PRJNA907731	KEEP	vineyard metagenome	Soil from different vineyards Metagenome
+PRJNA908721	KEEP	vineyard nematode community	Soil free living nematode community in vineyard basaltic soils
+PRJNA911566	KEEP	vineyard agricultural management metagenome	Metagenome of soil from vineyards under different agricultural management
+PRJNA915365	KEEP	red soil vineyard SW China	Soil bacterial community of a red soil vineyard in SW China
+PRJNA921747	KEEP	vineyard agro-management	Effects of Vineyard Agro-management Practices on Soil Microbial Community Composition
+PRJNA925461	KEEP	grape juice + grapevine leaf	Sequences from Grape Juice and Grapevine Leaf samples
+PRJNA978637	KEEP	GTD escape grapevines	The microbiome of grapevine trunk disease escape grapevines
+PRJNA1174674	KEEP	grapevines with aromatic plants	Diversifying grapevines with aromatic plants
+PRJNA885087	KEEP	Alvarinho grape microbiome	Alvarinho microbiome
+PRJNA679172	KEEP	AMF on vine plants	Study of abuscular mycorrhizal fungi associated to vine plants

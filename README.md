@@ -106,6 +106,44 @@ tail -n +2 metadata/fastq_manifest.tsv | while IFS=$'\t' read -r run study sampl
 done
 ```
 
+### 5. Download fastq and create samplesheet (e.g., only from PRJEB40350)
+```bash
+mkdir -p fastq/PRJEB40350
+
+# 1) download
+awk -F'\t' '$2=="PRJEB40350"{print $4}' metadata/fastq_manifest.tsv | \
+while read -r url; do
+  out="fastq/PRJEB40350/$(basename "$url")"
+  [ -f "$out" ] || curl -fsSL "$url" -o "$out"
+done
+
+# 2) md5 check
+awk -F'\t' '$2=="PRJEB40350"{print $5"  fastq/PRJEB40350/"$5; sub(/.*\//,"",$4); print $5"  fastq/PRJEB40350/"$4}' metadata/fastq_manifest.tsv >/dev/null
+awk -F'\t' '$2=="PRJEB40350"{print $5, "fastq/PRJEB40350/" substr($4, match($4,/[^/]+$/))}' metadata/fastq_manifest.tsv | \
+  while read -r md5 f; do echo "$md5  $f"; done | md5sum -c -
+
+
+DIR=vineyard-microbiome/fastq/PRJEB40350
+
+awk -F'\t' -v dir="$DIR" '
+  FNR==NR { if($2=="PRJEB40350") plat[$1]=$11; next }
+  $2=="PRJEB40350"{
+    bn=$4; sub(/.*\//,"",bn); run=$1
+    if (bn ~ /_1\.fastq\.gz$/) r1[run]=dir"/"bn
+    else if (bn ~ /_2\.fastq\.gz$/) r2[run]=dir"/"bn
+    else se[run]=dir"/"bn
+    if (!(run in seen)) { order[++n]=run; seen[run]=1 }
+  }
+  END{
+    print "sample,run_accession,instrument_platform,fastq_1,fastq_2,fasta"
+    for(i=1;i<=n;i++){ run=order[i]
+      f1=(run in r1)?r1[run]:se[run]; f2=(run in r2)?r2[run]:""
+      print i","run","plat[run]","f1","f2"," }
+  }
+' metadata/curated_metadata.tsv metadata/fastq_manifest.tsv > samplesheet_PRJEB40350.csv
+
+```
+
 ## Requirements
 ```bash
 pip install pandas requests
